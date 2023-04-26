@@ -5,14 +5,14 @@ var geoData ={
             name:"Old Main (Normal School)",
             lat:33.421377,
             long:-111.9339594,
-            link:"https://app.pictarize.com/p?projectId=64370dac7cd1930011a93f8b&buildId=6448818e94edd50011f7889e",
+            link:"https://app.pictarize.com/p?projectId=64370dac7cd1930011a93f8b&buildId=64496fd85f1dfb0011a5ad77",
             text:"Old Main (Normal School)"
         },
         {
             name:"The Old Church",
             lat: 33.4216791,
             long:-111.9346938,
-            link:"https://app.pictarize.com/p?projectId=64487e0f94edd50011f78898&buildId=6448807f94edd50011f7889b",
+            link:"https://app.pictarize.com/p?projectId=64487e0f94edd50011f78898&buildId=64496e925f1dfb0011a5ad75",
             text:"The Old Church"
         },
         {
