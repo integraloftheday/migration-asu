@@ -19,14 +19,14 @@ var geoData ={
             name:"Hayden Library",
             lat:33.4185773,
             long:-111.9355418,
-            link:"https://app.pictarize.com/p?projectId=6437083d7cd1930011a93f84&buildId=6448813f94edd50011f7889d",
+            link:"https://app.pictarize.com/p?projectId=6437083d7cd1930011a93f84&buildId=644962755f1dfb0011a5ad70",
             text:"Hayden Library"
         },
         {
             name:"Chicano Bush on Hayden Lawn",
             lat:33.4190633,
             long:-111.9352481,
-            link:"https://app.pictarize.com/p?projectId=64487abd94edd50011f7888f&buildId=644880e794edd50011f7889c",
+            link:"https://app.pictarize.com/p?projectId=64487abd94edd50011f7888f&buildId=644961d394edd50011f788f4",
             text:"Chicano Bush"
         },
         {
